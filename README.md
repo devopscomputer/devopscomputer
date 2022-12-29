@@ -1,4 +1,4 @@
-- 👋 Welcome my Friend
+
 - 🌱 Full Stacks / Developer Web
 - ☁  Archtect Cloud / DevOps Engineer
 
