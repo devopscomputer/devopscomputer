@@ -1,5 +1,5 @@
 
-- 🌱 Full Stacks / Developer Web
+- 🌱 Full Stack / Developer Web
 - ☁  Archtect Cloud / DevOps Engineer
 
 
