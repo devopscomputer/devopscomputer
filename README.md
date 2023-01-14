@@ -8,3 +8,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark" />
                         
 </div>
+
+<img align="center" alt="AngularJS" height="30" width="40" src"https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg">
