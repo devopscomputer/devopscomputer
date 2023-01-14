@@ -6,10 +6,13 @@
 <h1 align="center">
  Hii, welcome to my github.
 My name is 
-    <a href="https://www.linkedin.com/in/paulosilasit/">Paulo Silas de Campos Filho 😃️</a>
+    <a href="https://www.linkedin.com/in/paulosilasit/">Paulo Silas de Campos Filho </a>
   </h1>
   
   <p align="center">
+  Hii, welcome to my github.
+My name is 
+    <a href="https://www.linkedin.com/in/paulosilasit/">Paulo Silas de Campos Filho </a>
    I'm a Cloud Computing Architect and Full Stack Developer
     <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
       <img
