@@ -3,19 +3,16 @@
 - ☁  Archtect Cloud / DevOps Engineer
 
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devopscomputer&theme=dark&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark" />
-                        
-<div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+ 
+Hii, welcome to my github.
+My name is 
     <a href="https://www.linkedin.com/in/paulosilasit/">Paulo Silas de Campos Filho 😃️</a>
   </h1>
   
   <p align="center">
-    Sou Arquiteto Cloud Computing e Desenvolvedor Full stack
+   I'm a Cloud Computing Architect and Full Stack Developer
     <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
       <img
            width="10%" 
